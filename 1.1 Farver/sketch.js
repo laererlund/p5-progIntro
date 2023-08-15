@@ -1,11 +1,11 @@
 /*
-Første simple øvelse med programmering og med p5.js
-
-Der er opgaver nederst i denne fil
-
-Denne kode og forløbet som helhed er inspireret af 
-Daniel Shiffman på Youtube-kanalen "The Coding Train"
-Simon Moe, Erik Lund
+ * Første simple øvelse med programmering og med p5.js
+ *
+ * Der er opgaver nederst i denne fil
+ *
+ * Denne kode og forløbet som helhed er inspireret af 
+ * Daniel Shiffman på Youtube-kanalen "The Coding Train"
+ * Tilpasset til gymnasiebrug af Simon Moe og Erik Lund
 */
 
 /*
