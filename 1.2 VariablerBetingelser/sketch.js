@@ -1,7 +1,11 @@
 /*
-Denne kode og forløbet som helhed er inspireret af 
-Daniel Shiffman på Youtube-kanalen "The Coding Train"
-samt af Simon Moes tilpasning heraf til htx på Slotshaven
+ * Øvelse 2 med programmering og med p5.js: Animation/bevægelse
+ *
+ * Der er opgaver nederst i denne fil
+ *
+ * Denne kode og forløbet som helhed er inspireret af 
+ * Daniel Shiffman på Youtube-kanalen "The Coding Train"
+ * Tilpasset til gymnasiebrug af Simon Moe og Erik Lund
 */
 
 var x = 120;
